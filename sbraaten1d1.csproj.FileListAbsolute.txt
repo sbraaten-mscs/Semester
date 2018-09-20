@@ -1,0 +1,10 @@
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\bin\Debug\sbraaten1d1.exe.config
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\bin\Debug\sbraaten1d1.exe
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\bin\Debug\sbraaten1d1.pdb
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\obj\Debug\sbraaten1d1.csprojAssemblyReference.cache
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\obj\Debug\sbraaten1d1.Form1.resources
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\obj\Debug\sbraaten1d1.Properties.Resources.resources
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\obj\Debug\sbraaten1d1.csproj.GenerateResource.cache
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\obj\Debug\sbraaten1d1.csproj.CoreCompileInputs.cache
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\obj\Debug\sbraaten1d1.exe
+C:\Users\ragna\source\repos\Assignment 1 Solution\sbraaten1d1\obj\Debug\sbraaten1d1.pdb
